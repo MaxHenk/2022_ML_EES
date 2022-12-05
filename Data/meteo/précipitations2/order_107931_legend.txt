@@ -1,0 +1,376 @@
+Office fédéral de météorologie et de climatologie, MétéoSuisse
+Operation Center 1
+Postfach 257
+8058 Zürich-Flughafen
+
+stn yyyyMMddHHmm
+
+stn Abréviation de la station
+y   Année
+M   Mois
+d   Jour
+H   Heure
+m   Minute   
+     
+Heures en UTC:           00:40 UTC = 02:40 heure d'été
+                                   = 01:40 heure d'hiver
+
+Référence du temps pour les valeurs horaires, si rien d'autre ne figure dans la description du paramètre: HH  = (HH-1):01 - HH:00
+Exemple: 13 = se réfère à la période de mesure de 12:01 à 13:00
+
+Les valeurs manquantes sont caractérisées par un '-'.
+
+Informations sur la qualité: la légende relative aux informations sur la qualité se trouve sous: https://gate.meteoswiss.ch/idaweb/text/datenqualitaet_legende_fr.pdf
+
+
+ 
+
+
+
+Stations
+--------
+stn       Nom                                  Parameter        Source de données                                  Longitude/Latitude       Coordonnées [km] Altitude [m]
+DLMER     Merklingen                           rre150h0         Deutscher Wetterdienst                             9°46'/48°31'             771885/376134    685
+MEV       Mervelier                            rre150h0         MeteoSchweiz                                       7°29'/47°21'             603884/243975    540
+MMMES     Mesocco                              rre150h0         DTN Schweiz AG                                     9°14'/46°24'             737894/139979    840
+DLMES     Messstetten                          rre150h0         Deutscher Wetterdienst                             8°57'/48°10'             711942/336543    899
+ZHMEM     Mettmenstetten                       rre150h0         Kanton Zürich; Amt für Abfall, Wasser, Energie und Luft 8°27'/47°14'             677144/232194    451
+SOMET     Metzerlen                            rre150h0         Kanton Solothurn                                   7°27'/47°28'             601007/256825    490
+DLMEZ     Metzingen                            rre150h0         Deutscher Wetterdienst                             9°16'/48°32'             735531/378007    355
+GECRN     Meyrin / CERN                        rre150h0         République et canton de Genève                     6°03'/46°14'             493030/121244    432
+DLMIC     Michelstadt / Vielbrunn              rre150h0         Deutscher Wetterdienst                             9°06'/49°43'             -/-              453
+DLMIT     Mittenwald                           rre150h0         Deutscher Wetterdienst                             11°16'/47°29'            888341/265588    981
+BOTIMS    Moesa                                rre150h0         Bundesamt für Strassen                             9°04'/46°14'             726210/121059    252
+VDMOI     Moillettaz                           rre150h0         Canton de Vaud                                     7°01'/46°57'             568140/199475    490
+BOTIML    Moleno                               rre150h0         Bundesamt für Strassen                             9°00'/46°16'             720480/125559    252
+TIMOL     Moleno                               rre150h0         Repubblica e Cantone Ticino; Dipartimento del territorio; Divisione ambiente; Sezione protezione aria, acqua e suolo; Ufficio del monitoraggio ambientale 8°60'/46°17'             719940/126560    255
+VDMOL     Mollens                              rre150h0         Canton de Vaud                                     6°22'/46°34'             517810/158680    715
+GLMOL     Mollis                               rre150h0         Gebäudeversicherung glarnerSach                    9°04'/47°05'             723561/216146    440
+BOFRMO    Moncor VDA                           rre150h0         Bundesamt für Strassen                             7°07'/46°48'             575005/183229    700
+MOB       Montagnier, Bagnes                   rre150h0         MeteoSchweiz                                       7°14'/46°04'             583492/102189    839
+BOTIMC    Monte Ceneri Süd                     rre150h0         Bundesamt für Strassen                             8°55'/46°08'             714346/109771    481
+BOVDMO    Montreux                             rre150h0         Bundesamt für Strassen                             6°55'/46°26'             560160/142671    465
+BEMOE     Moosegg                              rre150h0         Kanton Bern                                        7°42'/46°57'             619560/199730    965
+MMO       Mormont                              rre150h0         MeteoSchweiz                                       7°02'/47°26'             569727/254223    535
+MOA       Mosen                                rre150h0         MeteoSchweiz                                       8°14'/47°15'             660128/232852    453
+BOSZMN    Mosi-Nord                            rre150h0         Bundesamt für Strassen                             8°37'/46°60'             689950/205850    445
+MSG       Mosogno                              rre150h0         MeteoSchweiz                                       8°38'/46°12'             692803/117050    771
+MMMOU     Moutier                              rre150h0         DTN Schweiz AG                                     7°22'/47°16'             594521/235986    537
+BOSZMB    Muotabrücke                          rre150h0         Bundesamt für Strassen                             8°37'/47°01'             690200/207450    448
+BOSGMU    Murg                                 rre150h0         Kanton St. Gallen; Baudepartement                  9°13'/47°07'             734593/219430    456
+MUR       Muri, AG                             rre150h0         MeteoSchweiz                                       8°20'/47°16'             667276/235323    577
+BLMUZ     Muttenz / Schweizerhalle             rre150h0         Lufthygieneamt beider Basel                        7°40'/47°32'             616775/264490    281
+MOE       Möhlin                               rre150h0         MeteoSchweiz                                       7°53'/47°34'             633053/269147    343
+ZHMON     Mönchaltorf                          rre150h0         Kanton Zürich; Amt für Abfall, Wasser, Energie und Luft 8°43'/47°19'             696925/240800    440
+DLMUH     Mühlacker                            rre150h0         Deutscher Wetterdienst                             8°52'/48°58'             -/-              244
+DLMUD     Mühldorf                             rre150h0         Deutscher Wetterdienst                             12°30'/48°17'            975681/359796    406
+MUB       Mühleberg                            rre150h0         MeteoSchweiz                                       7°17'/46°58'             587792/202479    479
+DLMUE     Müllheim                             rre150h0         Deutscher Wetterdienst                             7°38'/47°48'             614964/295104    273
+MMMUM     Mümliswil                            rre150h0         DTN Schweiz AG                                     7°42'/47°21'             619694/243474    560
+DLMUC     München                              rre150h0         Deutscher Wetterdienst                             11°33'/48°10'            905248/342757    515
+DLMUN     München / Flughafen                  rre150h0         Deutscher Wetterdienst                             11°49'/48°21'            924190/364335    446
+DLMUS     Münsingen                            rre150h0         Deutscher Wetterdienst                             9°29'/48°23'             751479/361468    750
+DLMUO     Münster / Osnabrück                  rre150h0         Deutscher Wetterdienst                             7°42'/52°08'             617766/777303    48
+IYNAT     Naturns                              rre150h0         Autonome Provinz Bozen - Südtirol                  10°59'/46°39'            871877/172430    537
+GLNET     Netstal                              rre150h0         Gebäudeversicherung glarnerSach                    9°03'/47°03'             722361/212895    498
+DLNBL     Neubulach                            rre150h0         Deutscher Wetterdienst                             8°41'/48°39'             691514/389816    570
+DLNEB     Neuburg an der Kammel                rre150h0         Deutscher Wetterdienst                             10°23'/48°19'            817974/355358    486
+NEU       Neuchâtel                            rre150h0         MeteoSchweiz                                       6°57'/47°00'             563086/205559    485
+ZELUNK    Neuenkirch                           rre150h0         Kanton Luzern; zentras                             8°11'/47°07'             656583/218604    513
+DLNEU     Neuhausen ob Eck / Unterschwandorf   rre150h0         Deutscher Wetterdienst                             8°60'/47°57'             716143/312459    663
+DLNEH     Neuhütten                            rre150h0         Deutscher Wetterdienst                             9°25'/50°00'             -/-              339
+WSLNEB    Neunkirch Bestand                    rre150h0         Eidg. Forschungsanstalt WSL                        8°32'/47°41'             682301/282059    561
+WSLNEF    Neunkirch Freiland                   rre150h0         Eidg. Forschungsanstalt WSL                        8°32'/47°41'             681661/282699    463
+DLWEB     Neustadt / Weinbiet                  rre150h0         Deutscher Wetterdienst                             8°07'/49°23'             -/-              553
+BOVSNE    Neuvilles                            rre150h0         Bundesamt für Strassen                             7°05'/46°06'             572634/105286    470
+BOSONB    Niederbipp                           rre150h0         Bundesamt für Strassen                             7°42'/47°16'             620175/234350    460
+ZHNIE     Niederglatt                          rre150h0         Kanton Zürich; Amt für Abfall, Wasser, Energie und Luft 8°29'/47°29'             678170/260580    410
+GLNIT     Niederurnen / Morgenholz             rre150h0         Gebäudeversicherung glarnerSach                    9°01'/47°08'             720000/220594    983
+TGNOL     Nollen                               rre150h0         Kanton Thurgau                                     9°07'/47°30'             726838/261520    733
+DLNOT     Notzingen                            rre150h0         Deutscher Wetterdienst                             9°28'/48°40'             749120/393152    325
+TINOV     Novaggio                             rre150h0         Repubblica e Cantone Ticino; Dipartimento del territorio; Divisione delle costruzioni; Ufficio dei corsi d'acqua 8°51'/46°00'             709959/96156     625
+WSLNOB    Novaggio Bestand                     rre150h0         Eidg. Forschungsanstalt WSL                        8°50'/46°01'             708090/97689     928
+TGNUS     Nussbaumen                           rre150h0         Kanton Thurgau                                     8°50'/47°37'             704218/275708    480
+CGI       Nyon / Changins                      rre150h0         MeteoSchweiz                                       6°14'/46°24'             506878/139572    458
+MMNAF     Näfels                               rre150h0         DTN Schweiz AG                                     9°03'/47°05'             722943/215943    445
+DLNUR     Nürburg / Barweiler                  rre150h0         Deutscher Wetterdienst                             6°52'/50°22'             -/-              485
+ZHNUR     Nürensdorf                           rre150h0         Kanton Zürich; Amt für Abfall, Wasser, Energie und Luft 8°39'/47°27'             691180/256560    540
+DLNUE     Nürnberg                             rre150h0         Deutscher Wetterdienst                             11°03'/49°30'            862116/489905    314
+BOSGOB    Oberberg                             rre150h0         Bundesamt für Strassen                             9°17'/47°24'             739000/251999    680
+DLOBH     Oberhaching                          rre150h0         Deutscher Wetterdienst                             11°33'/48°01'            906835/326131    604
+ZELUOK    Oberkirch                            rre150h0         Kanton Luzern; zentras                             8°06'/47°10'             650497/223510    515
+DLOBE     Oberreute                            rre150h0         Deutscher Wetterdienst                             9°56'/47°33'             788295/270011    896
+OBR       Oberriet / Kriessern                 rre150h0         MeteoSchweiz                                       9°37'/47°23'             764170/249582    409
+BOSGMO    Oberriet / Moos                      rre150h0         Kanton St. Gallen; Baudepartement                  9°33'/47°19'             759569/242155    427
+DLOBS     Oberschleissheim                     rre150h0         Deutscher Wetterdienst                             11°33'/48°15'            905487/351798    484
+DLOBD     Oberstdorf                           rre150h0         Deutscher Wetterdienst                             10°17'/47°24'            814149/253623    806
+MMOBE     Oberthal                             rre150h0         DTN Schweiz AG                                     7°40'/46°55'             617980/196061    853
+IYOBV     Obervintl                            rre150h0         Autonome Provinz Bozen - Südtirol                  11°45'/46°49'            929155/193494    747
+KAOWL     Oberwil                              rre150h0         Kachelmannwetter GmbH                              7°33'/47°30'             608776/261692    300
+ZHOWI     Oberwinterthur                       rre150h0         Bundesamt für Strassen                             8°47'/47°32'             700922/265371    486
+ZHOER     Oerlingen                            rre150h0         Bundesamt für Strassen                             8°40'/47°38'             692803/276057    417
+BOGLOF    Ofenegg                              rre150h0         Bundesamt für Strassen                             9°07'/47°08'             727224/220774    436
+DLDWD     Offenbach                            rre150h0         Deutscher Wetterdienst                             8°47'/50°05'             -/-              118
+DLOHL     Ohlsbach                             rre150h0         Deutscher Wetterdienst                             7°60'/48°26'             641017/364922    176
+TIOLV     Olivone                              rre150h0         Repubblica e Cantone Ticino; Dipartimento del territorio; Divisione delle costruzioni; Ufficio dei corsi d'acqua 8°57'/46°32'             715410/154120    930
+OPF       Opfikon                              rre150h0         MeteoSchweiz                                       8°34'/47°26'             684614/254698    424
+ZHOPF     Opfikon / Zürich Nord                rre150h0         Bundesamt für Strassen                             8°34'/47°25'             685533/253182    433
+VDNOC     Orny / Nozon                         rre150h0         Canton de Vaud                                     6°32'/46°41'             531030/170390    440
+ORO       Oron                                 rre150h0         MeteoSchweiz                                       6°51'/46°34'             555505/158052    828
+ORS       Orsières                             rre150h0         MeteoSchweiz                                       7°09'/46°01'             577022/96695     929
+WSLOTB    Othmarsingen Bestand                 rre150h0         Eidg. Forschungsanstalt WSL                        8°14'/47°24'             659515/250058    474
+WSLOTF    Othmarsingen Freiland                rre150h0         Eidg. Forschungsanstalt WSL                        8°13'/47°24'             659217/250228    461
+TGOTT     Ottenberg                            rre150h0         Kanton Thurgau                                     9°08'/47°35'             727270/271500    665
+DLOTT     Ottobeuren                           rre150h0         Deutscher Wetterdienst                             10°19'/47°56'            814552/312801    667
+BOVDOU    Oulens                               rre150h0         Bundesamt für Strassen                             6°34'/46°39'             533069/166171    588
+BOFROB    Outre-Broye                          rre150h0         Bundesamt für Strassen                             6°55'/46°34'             560070/157372    828
+DLOYM     Oy-Mittelberg / Petersthal           rre150h0         Deutscher Wetterdienst                             10°23'/47°38'            821688/280321    885
+PAY       Payerne                              rre150h0         MeteoSchweiz Test                                  6°57'/46°49'             562131/184611    490
+BOGEPE    Perly                                rre150h0         Bundesamt für Strassen                             6°06'/46°10'             496498/113450    410
+DLPFU     Pfullendorf                          rre150h0         Deutscher Wetterdienst                             9°17'/47°56'             738100/310955    630
+ZHPFA     Pfäffikon, SZ / Etzelstrasse         rre150h0         Bundesamt für Strassen                             8°47'/47°12'             702121/228243    467
+PIO       Piotta                               rre150h0         MeteoSchweiz                                       8°41'/46°31'             695880/152264    990
+VDPON     Pont                                 rre150h0         Canton de Vaud                                     6°51'/46°35'             554950/159650    743
+BONEPC    Pont Corcelles                       rre150h0         Bundesamt für Strassen                             6°42'/46°51'             544020/189448    500
+BONEPA    Pont de l'Arnon 1                    rre150h0         Bundesamt für Strassen                             6°40'/46°49'             540622/186016    448
+BOVDPS    Pont de Saumont                      rre150h0         Bundesamt für Strassen                             6°54'/46°30'             558731/150555    828
+BONEPS    Pont de Sorges                       rre150h0         Bundesamt für Strassen                             6°54'/47°01'             558902/207684    702
+BONEPN    Pont Noir                            rre150h0         Bundesamt für Strassen                             6°54'/47°01'             559225/206607    630
+BOVSUV    Pont Uvrier                          rre150h0         Bundesamt für Strassen                             7°24'/46°15'             597599/121330    499
+BOVSPL    Pt. Lizerne                          rre150h0         Bundesamt für Strassen                             7°16'/46°12'             587169/117395    488
+PUY       Pully                                rre150h0         MeteoSchweiz                                       6°40'/46°31'             540819/151510    455
+BOVDRA    Raffinerie                           rre150h0         Bundesamt für Strassen                             6°57'/46°18'             562844/127642    393
+MMRAF     Rafz                                 rre150h0         DTN Schweiz AG                                     8°33'/47°36'             684040/272684    432
+DLREG     Regensburg                           rre150h0         Deutscher Wetterdienst                             12°06'/49°03'            -/-              365
+BOGRRE    Reichenau                            rre150h0         Bundesamt für Strassen                             9°25'/46°48'             750780/185800    600
+BOSGRO    Reichenburg Ost                      rre150h0         Bundesamt für Strassen                             8°59'/47°11'             717314/226850    416
+AGREH     Reinach                              rre150h0         Kanton Aargau; Departement Bau, Verkehr und Umwelt; Abteilung Landschaft und Gewässer 8°10'/47°16'             655394/234929    516
+KAREH     Reinach                              rre150h0         Kachelmannwetter GmbH                              7°36'/47°29'             611571/259333    307
+DLREI     Reit im Winkl                        rre150h0         Deutscher Wetterdienst                             12°28'/47°41'            977558/292626    685
+REM       Rempen                               rre150h0         MeteoSchweiz                                       8°54'/47°08'             710610/221850    650
+VDREN     Rennaz                               rre150h0         Canton de Vaud                                     6°56'/46°23'             560930/136625    375
+DLREN     Renningen                            rre150h0         Deutscher Wetterdienst                             8°55'/48°45'             709296/400261    478
+ZELURB    Reussbrücke                          rre150h0         Bundesamt für Strassen                             8°20'/47°06'             668541/216929    426
+VDREV     Reverolle                            rre150h0         Canton de Vaud                                     6°26'/46°33'             523030/155005    595
+DLRHE     Rheinau                              rre150h0         Deutscher Wetterdienst                             7°60'/48°40'             640912/391306    131
+BOSGRB    Rheinbrücke                          rre150h0         Bundesamt für Strassen                             9°30'/47°01'             757350/209048    506
+ZHWOL     Richterswil / Mühlebachtobelbrücke   rre150h0         Bundesamt für Strassen                             8°42'/47°12'             695632/228173    540
+MMRIC     Ricken                               rre150h0         DTN Schweiz AG                                     9°03'/47°16'             721669/236300    797
+ZELURI    Rickenbach                           rre150h0         Kanton Luzern; zentras                             8°10'/47°13'             654622/229752    706
+TGRIC     Rickenbach                           rre150h0         Kanton Thurgau                                     9°03'/47°27'             722080/256250    545
+WHF       Riedholz / Wallierhof                rre150h0         MeteoSchweiz                                       7°34'/47°14'             609394/231491    518
+MMRIG     Riggisberg                           rre150h0         DTN Schweiz AG                                     7°29'/46°49'             603271/184705    803
+ZELURW    Roggliswil                           rre150h0         Kanton Luzern; zentras                             7°53'/47°13'             633462/230139    549
+VDROL     Rolle                                rre150h0         Canton de Vaud                                     6°20'/46°27'             515360/145070    374
+VDROM     Romairon                             rre150h0         Canton de Vaud                                     6°38'/46°51'             539210/189160    810
+ROM       Romont                               rre150h0         MeteoSchweiz                                       6°56'/46°42'             561476/172622    692
+MMROM     Romont                               rre150h0         DTN Schweiz AG                                     6°55'/46°42'             560223/171568    778
+LUROO     Root                                 rre150h0         Kanton Luzern                                      8°23'/47°07'             672060/218910    426
+DLROS     Rosenheim                            rre150h0         Deutscher Wetterdienst                             12°08'/47°53'            950621/313234    444
+DLRAR     Rot an der Rot                       rre150h0         Deutscher Wetterdienst                             10°01'/47°58'            792331/315212    690
+ZELURK    Rotbach Kantonsstrasse               rre150h0         Kanton Luzern; zentras                             8°15'/47°05'             662226/215127    512
+ZELURN    Rotbach Nationalstrasse              rre150h0         Bundesamt für Strassen                             8°16'/47°05'             662434/214974    511
+DLROH     Roth                                 rre150h0         Deutscher Wetterdienst                             11°06'/49°13'            -/-              385
+ROT       Rothenbrunnen                        rre150h0         MeteoSchweiz                                       9°25'/46°46'             751221/181292    620
+ZELURO    Rothenburg                           rre150h0         Kanton Luzern; zentras                             8°16'/47°06'             662314/217586    536
+DLRON     Rottenburg am Neckar                 rre150h0         Deutscher Wetterdienst                             8°58'/48°28'             713175/370052    360
+DLROT     Rottweil                             rre150h0         Deutscher Wetterdienst                             8°38'/48°11'             688995/337463    588
+BOBERB    Rubigen                              rre150h0         Bundesamt für Strassen                             7°33'/46°52'             608367/190694    520
+BOTIRU    Ruina                                rre150h0         Bundesamt für Strassen                             8°51'/46°26'             708400/143079    584
+ZELURU    Ruswil                               rre150h0         Kanton Luzern; zentras                             8°09'/47°04'             654513/213594    670
+ZHRAT     Räterschen                           rre150h0         Kanton Zürich; Amt für Abfall, Wasser, Energie und Luft 8°48'/47°30'             702390/261740    470
+ZELURS    Rüeggisingerbrücke                   rre150h0         Bundesamt für Strassen                             8°17'/47°05'             664082/214922    450
+RUE       Rünenberg                            rre150h0         MeteoSchweiz                                       7°53'/47°26'             633252/253845    611
+ZHWD1     Rüti / Grundtal                      rre150h0         Kanton Zürich; Tiefbauamt                          8°53'/47°16'             709424/236524    544
+DLSAA     Saarbrücken / Ensheim                rre150h0         Deutscher Wetterdienst                             7°06'/49°13'             575872/451603    320
+MMSAS     Saas, Prättigau                      rre150h0         DTN Schweiz AG                                     9°48'/46°55'             780393/198400    1000
+SAI       Saignelégier                         rre150h0         MeteoSchweiz                                       6°59'/47°15'             565349/234100    883
+HAI       Salen-Reutenen                       rre150h0         MeteoSchweiz                                       9°01'/47°39'             719099/279047    718
+SAX       Salez / Saxerriet                    rre150h0         MeteoSchweiz                                       9°30'/47°14'             755558/233374    436
+IYSAU     Salurn                               rre150h0         Autonome Provinz Bozen - Südtirol                  11°11'/46°14'            888921/127431    214
+IYSAN     Sand in Taufers / Mühlen             rre150h0         Autonome Provinz Bozen - Südtirol                  11°57'/46°54'            943368/204227    851
+ZEOWSS    Sarnen Süd                           rre150h0         Bundesamt für Strassen                             8°15'/46°53'             661750/193188    480
+ZEOWSA    Sarner Aa                            rre150h0         Bundesamt für Strassen                             8°16'/46°55'             663092/196368    462
+IYSAR     Sarnthein                            rre150h0         Autonome Provinz Bozen - Südtirol                  11°21'/46°38'            899743/172969    971
+SAG       Sattel, SZ                           rre150h0         MeteoSchweiz                                       8°38'/47°05'             690999/215145    790
+GESAV     Sauverny                             rre150h0         République et canton de Genève                     6°08'/46°19'             499488/129386    454
+MMSAX     Sax                                  rre150h0         DTN Schweiz AG                                     9°28'/47°14'             752932/233330    475
+SUA       Schaan                               rre150h0         MeteoSchweiz                                       9°29'/47°11'             755510/228260    444
+FLSAA     Schaanwald                           rre150h0         Liechtensteinische Landesverwaltung                9°34'/47°12'             760850/230750    513
+SHA       Schaffhausen                         rre150h0         MeteoSchweiz                                       8°37'/47°41'             688702/282803    438
+BOSHRH    Schaffhausen / Rheinbrücke           rre150h0         Bundesamt für Strassen                             8°38'/47°42'             689100/283040    394
+BOSHSB    Schaffhausen / Schweizersbild        rre150h0         Bundesamt für Strassen                             8°38'/47°43'             689946/286579    469
+SRS       Schiers                              rre150h0         MeteoSchweiz                                       9°40'/46°59'             769617/205125    626
+IYSCH     Schlanders                           rre150h0         Autonome Provinz Bozen - Südtirol                  10°47'/46°37'            855860/169066    698
+ZELUSC    Schlund                              rre150h0         Bundesamt für Strassen                             8°18'/47°01'             665329/207833    457
+ZELUSG    Schongau                             rre150h0         Kanton Luzern; zentras                             8°15'/47°16'             661591/235470    655
+GLSWA     Schwanden                            rre150h0         Gebäudeversicherung glarnerSach                    9°04'/46°60'             723823/205996    558
+ZELUSH    Schwanderholz                        rre150h0         Kanton Luzern; zentras                             8°05'/47°02'             648438/208988    681
+ZELUSB    Schwarzenberg                        rre150h0         Kanton Luzern; zentras                             8°10'/47°01'             655587/208155    760
+BOBLSH    Schweizerhalle                       rre150h0         Bundesamt für Strassen                             7°41'/47°32'             618200/264151    277
+MMSSE     Schwyz / Seewen                      rre150h0         DTN Schweiz AG                                     8°37'/47°02'             690119/209677    452
+WSLSCB    Schänis Bestand                      rre150h0         Eidg. Forschungsanstalt WSL                        9°04'/47°10'             723438/225134    709
+WSLSCF    Schänis Freiland                     rre150h0         Eidg. Forschungsanstalt WSL                        9°04'/47°09'             722925/223520    626
+ZHSHU     Schübelbach / Mülenen                rre150h0         Bundesamt für Strassen                             8°58'/47°11'             715186/226987    413
+BOBEVB    Schüpfen / Viadukt Bundkofen         rre150h0         Bundesamt für Strassen                             7°21'/47°03'             593822/210857    495
+ZELUSM    Schüpfheim                           rre150h0         Kanton Luzern; zentras                             8°01'/46°56'             643956/197614    763
+SPF       Schüpfheim                           rre150h0         MeteoSchweiz                                       8°01'/46°57'             643683/199710    744
+LUSCH     Schüpfheim                           rre150h0         Kanton Luzern                                      8°01'/46°57'             644500/200940    761
+SNG       Seengen                              rre150h0         Kanton Aargau; Departement Bau, Verkehr und Umwelt; Abteilung Landschaft und Gewässer 8°11'/47°20'             656680/242100    445
+BOSGSV    Seezviadukt 1                        rre150h0         Bundesamt für Strassen                             9°19'/47°07'             741900/219845    462
+LUSEM     Sempach                              rre150h0         Kanton Luzern                                      8°11'/47°07'             656880/219360    511
+BOSGSW    Sennwald                             rre150h0         Kanton St. Gallen; Baudepartement                  9°30'/47°15'             755870/235277    445
+BOFRSE    Sevaz Jura/Alpes                     rre150h0         Bundesamt für Strassen                             6°53'/46°50'             557011/186661    464
+SIE       Siebnen                              rre150h0         MeteoSchweiz                                       8°54'/47°10'             710821/225538    452
+VSSIE     Sierre                               rre150h0         MeteoSchweiz                                       7°33'/46°18'             609073/127492    535
+DLSIG     Sigmaringen                          rre150h0         Deutscher Wetterdienst                             9°12'/48°04'             730848/326082    580
+DLSIZ     Sigmarszell-Zeisertsweiler           rre150h0         Deutscher Wetterdienst                             9°44'/47°35'             773168/272210    507
+SIH       Sihlbrugg                            rre150h0         MeteoSchweiz                                       8°35'/47°13'             686318/230586    549
+DLSIN     Singen                               rre150h0         Deutscher Wetterdienst                             8°49'/47°46'             703677/292385    445
+AGSIN     Sins                                 rre150h0         Kanton Aargau; Departement Bau, Verkehr und Umwelt; Abteilung Landschaft und Gewässer 8°24'/47°12'             672912/228032    397
+SIO       Sion                                 rre150h0         MeteoSchweiz                                       7°20'/46°13'             591633/118583    482
+BLSIS     Sissach                              rre150h0         Lufthygieneamt beider Basel                        7°49'/47°28'             628415/257193    371
+BOSGSS    Sitenstuden 2, Mels                  rre150h0         Bundesamt für Strassen                             9°13'/47°07'             735130/219279    501
+BOGRSO    Soazza                               rre150h0         Bundesamt für Strassen                             9°14'/46°22'             737603/136186    569
+TISON     Sonogno                              rre150h0         Repubblica e Cantone Ticino; Dipartimento del territorio; Divisione delle costruzioni; Ufficio dei corsi d'acqua 8°47'/46°21'             703635/133895    911
+TISOV     Sonvico                              rre150h0         Repubblica e Cantone Ticino; Dipartimento del territorio; Divisione delle costruzioni; Ufficio dei corsi d'acqua 8°59'/46°04'             719576/102086    578
+STG       St. Gallen                           rre150h0         MeteoSchweiz                                       9°24'/47°26'             747865/254588    775
+IYSMP     St. Martin in Passeier               rre150h0         Autonome Provinz Bozen - Südtirol                  11°14'/46°47'            889384/188242    588
+SBO       Stabio                               rre150h0         MeteoSchweiz                                       8°56'/45°51'             716048/77973     351
+BOSGSG    Stadtergasse                         rre150h0         Bundesamt für Strassen                             9°26'/47°03'             751454/212569    491
+ZENWST    Stans                                rre150h0         Bundesamt für Strassen                             8°22'/46°58'             670875/202077    445
+MMSTA     Stans                                rre150h0         DTN Schweiz AG                                     8°21'/46°58'             669026/202416    438
+STB       Starkenbach                          rre150h0         MeteoSchweiz                                       9°15'/47°11'             737313/227576    897
+IYSTZ     Sterzing                             rre150h0         Autonome Provinz Bozen - Südtirol                  11°26'/46°53'            904743/200425    939
+AGSTE     Stetten                              rre150h0         MeteoSchweiz                                       8°18'/47°24'             665026/249877    355
+DLSTA     Stockach                             rre150h0         Deutscher Wetterdienst                             9°01'/47°52'             717981/302142    532
+DLSTR     Straubing                            rre150h0         Deutscher Wetterdienst                             12°34'/48°50'            -/-              350
+DLSTU     Stuttgart / Echterdingen             rre150h0         Deutscher Wetterdienst                             9°13'/48°41'             731472/394682    371
+DLSTS     Stuttgart / Schnarrenberg            rre150h0         Deutscher Wetterdienst                             9°12'/48°50'             -/-              314
+ZELUST    Stänglematten                        rre150h0         Bundesamt für Strassen                             7°59'/47°13'             640780/229151    484
+DLSTO     Stötten                              rre150h0         Deutscher Wetterdienst                             9°52'/48°40'             778758/393436    734
+AGSUL     Sulz                                 rre150h0         Kanton Aargau; Departement Bau, Verkehr und Umwelt; Abteilung Landschaft und Gewässer 8°06'/47°33'             649607/266007    352
+LUSUR     Sursee                               rre150h0         Kanton Luzern                                      8°06'/47°10'             649930/225040    511
+BOURTB    Taubach                              rre150h0         Bundesamt für Strassen                             8°39'/46°49'             691900/185850    472
+BOSOTB    Teufelsbrücke                        rre150h0         Bundesamt für Strassen                             7°50'/47°20'             629660/243130    567
+ZHTWL     Thalwil                              rre150h0         Bundesamt für Strassen                             8°33'/47°18'             683993/239044    508
+BOSHKE    Thayngen / Kesslerloch               rre150h0         Bundesamt für Strassen                             8°42'/47°45'             694375/289003    443
+BONETH    Thielle                              rre150h0         Bundesamt für Strassen                             7°02'/47°01'             569081/207860    434
+DLTHO     Tholey                               rre150h0         Deutscher Wetterdienst                             7°02'/49°28'             -/-              385
+THU       Thun                                 rre150h0         MeteoSchweiz                                       7°35'/46°45'             611200/177640    570
+BOTGTB    Thurbrücke, Frauenfeld               rre150h0         Bundesamt für Strassen                             8°59'/47°35'             716805/272039    404
+THS       Thusis                               rre150h0         MeteoSchweiz                                       9°27'/46°43'             753155/175089    672
+MMPRV     Thusis                               rre150h0         DTN Schweiz AG                                     9°26'/46°43'             752982/175241    676
+BOGRCA    Thusis / Calabriabrücke              rre150h0         Bundesamt für Strassen                             9°30'/46°41'             758180/172613    859
+GLTFD     Tierfehd                             rre150h0         Gebäudeversicherung glarnerSach                    8°59'/46°53'             717756/193171    804
+MMTIT     Titterten                            rre150h0         DTN Schweiz AG                                     7°43'/47°24'             620855/250262    669
+DLTOM     Todtmoos                             rre150h0         Deutscher Wetterdienst                             7°60'/47°44'             642027/286518    781
+ZELUTB    Triechterbrücke                      rre150h0         Bundesamt für Strassen                             8°08'/47°10'             652325/225021    510
+ZELUTR    Triengen                             rre150h0         Kanton Luzern; zentras                             8°04'/47°15'             647678/233270    493
+MMTRG     Triengen                             rre150h0         DTN Schweiz AG                                     8°05'/47°14'             648430/230884    485
+DLTRI     Trier                                rre150h0         Deutscher Wetterdienst                             6°39'/49°45'             -/-              265
+TRU       Trun                                 rre150h0         MeteoSchweiz                                       9°01'/46°45'             719985/178224    834
+ZELUTG    Truttigen                            rre150h0         Bundesamt für Strassen                             8°13'/47°08'             659320/219681    557
+BOSGTB    Trübbach                             rre150h0         Bundesamt für Strassen                             9°28'/47°04'             754340/214700    481
+ZHTUR     Turbenthal                           rre150h0         Kanton Zürich; Amt für Abfall, Wasser, Energie und Luft 8°52'/47°26'             707340/254670    570
+AGTGI     Turgi                                rre150h0         Kanton Aargau; Departement Bau, Verkehr und Umwelt; Abteilung Landschaft und Gewässer 8°16'/47°29'             662517/259908    348
+ZELUUF    Ufhusen                              rre150h0         Kanton Luzern; zentras                             7°53'/47°08'             633452/219521    621
+WSLUIB    Uitikon Bestand                      rre150h0         Eidg. Forschungsanstalt WSL                        8°27'/47°22'             676731/246286    543
+DLUMM     Ulm /Mähringen                       rre150h0         Deutscher Wetterdienst                             9°55'/48°27'             -/-              592
+ZELUUM    Umfahrung Malters                    rre150h0         Kanton Luzern; zentras                             8°07'/47°03'             651827/210776    532
+UNK       Unterkulm                            rre150h0         MeteoSchweiz                                       8°07'/47°19'             650838/241212    454
+MMUNS     Unterschächen                        rre150h0         DTN Schweiz AG                                     8°46'/46°52'             701431/191053    997
+TGUSH     Unterstammheim                       rre150h0         Kanton Thurgau                                     8°47'/47°38'             700523/277305    422
+URN       Urnäsch                              rre150h0         MeteoSchweiz                                       9°17'/47°19'             739206/241761    825
+UST       Uster                                rre150h0         MeteoSchweiz                                       8°42'/47°21'             694760/245190    438
+ZHUST     Uster / Aatal Höhe                   rre150h0         Bundesamt für Strassen                             8°45'/47°21'             698612/244769    490
+BOFRVG    V. Gruyère VDA/S                     rre150h0         Bundesamt für Strassen                             7°06'/46°41'             573565/171204    740
+VAD       Vaduz                                rre150h0         MeteoSchweiz                                       9°31'/47°08'             757722/221699    457
+VDVAL     Valeyres-sous-Montagny               rre150h0         Canton de Vaud                                     6°37'/46°48'             537240/183740    500
+VDVAU     Vaulion                              rre150h0         Canton de Vaud                                     6°25'/46°42'             522290/172180    885
+GEARE     Vernier / Aïre                       rre150h0         République et canton de Genève                     6°05'/46°12'             495941/117137    379
+BOGEVE    Versoix                              rre150h0         Bundesamt für Strassen                             6°09'/46°17'             500186/126346    420
+VEV       Vevey / Corseaux                     rre150h0         MeteoSchweiz                                       6°49'/46°28'             552106/146847    405
+BOJUVC    Viaduc des neufs Champs              rre150h0         Bundesamt für Strassen                             7°16'/47°21'             587389/243751    496
+VDGLA     Villars-le-Grand / Petite-Glâne      rre150h0         Canton de Vaud                                     6°60'/46°54'             566480/194435    433
+VIT       Villars-Tiercelin                    rre150h0         MeteoSchweiz                                       6°43'/46°37'             544198/163650    859
+VDPPI     Villeneuve, Le Pissot                rre150h0         Canton de Vaud                                     6°57'/46°24'             561790/138170    500
+BEVIL     Villeret                             rre150h0         Kanton Bern                                        7°02'/47°10'             569451/223729    724
+DLVIS     Villingen-Schwenningen               rre150h0         Deutscher Wetterdienst                             8°28'/48°03'             676223/322146    720
+BOSGVS    Viscosuisse                          rre150h0         Bundesamt für Strassen                             9°39'/47°25'             766700/253749    409
+VIS       Visp                                 rre150h0         MeteoSchweiz                                       7°51'/46°18'             631150/128024    639
+WSLVSB    Visp Bestand                         rre150h0         Eidg. Forschungsanstalt WSL                        7°51'/46°18'             632260/127364    698
+ZELUVI    Vitznau                              rre150h0         Kanton Luzern; zentras                             8°29'/47°00'             679542/206692    444
+WSLVOB    Vordemwald Bestand                   rre150h0         Eidg. Forschungsanstalt WSL                        7°53'/47°16'             633932/235983    482
+WSLVOF    Vordemwald Freiland                  rre150h0         Eidg. Forschungsanstalt WSL                        7°55'/47°16'             635732/235431    486
+VAE       Vättis                               rre150h0         MeteoSchweiz                                       9°27'/46°55'             752732/197282    939
+IYVOL     Völs am Schlern                      rre150h0         Autonome Provinz Bozen - Südtirol                  11°30'/46°31'            912015/159435    835
+DLWAI     Waibstadt                            rre150h0         Deutscher Wetterdienst                             8°54'/49°18'             -/-              236
+ZHWD2     Wald / Brüglen                       rre150h0         Kanton Zürich; Tiefbauamt                          8°55'/47°17'             711690/237864    647
+ZHHIT     Wald / Hittenberg                    rre150h0         Kanton Zürich; Tiefbauamt                          8°56'/47°17'             713218/237375    873
+WAG       Waldegg                              rre150h0         MeteoSchweiz                                       8°27'/47°22'             676761/246211    545
+DLWAL     Waldmünchen                          rre150h0         Deutscher Wetterdienst                             12°41'/49°23'            -/-              498
+ZHWLS     Wallisellen / Neugut                 rre150h0         Bundesamt für Strassen                             8°36'/47°24'             687576/251245    437
+DLWAN     Wangen im Allgäu                     rre150h0         Deutscher Wetterdienst                             9°52'/47°43'             782147/287150    666
+ZHWAN     Wangen, SZ                           rre150h0         Bundesamt für Strassen                             8°54'/47°12'             710427/227937    420
+WAR       Wartau                               rre150h0         MeteoSchweiz                                       9°30'/47°06'             756872/218250    468
+MMWAA     Wasserauen                           rre150h0         DTN Schweiz AG                                     9°26'/47°17'             750511/239186    868
+WEE       Weesen                               rre150h0         MeteoSchweiz                                       9°05'/47°08'             724983/221383    425
+ZELUWE    Weggis                               rre150h0         Kanton Luzern; zentras                             8°25'/47°03'             674923/210861    506
+ZHWEA     Weiach                               rre150h0         Kanton Zürich; Amt für Abfall, Wasser, Energie und Luft 8°27'/47°34'             676110/268980    360
+DLWED     Weiden                               rre150h0         Deutscher Wetterdienst                             12°11'/49°40'            -/-              439
+BOBLWH    Weierhaus                            rre150h0         Bundesamt für Strassen                             7°46'/47°30'             624700/260700    399
+DLWES     Weihenstephan / Dürnast              rre150h0         Deutscher Wetterdienst                             11°42'/48°24'            -/-              477
+TGWEI     Weinfelden                           rre150h0         Kanton Thurgau                                     9°05'/47°34'             723890/269553    423
+DLWEI     Weingarten                           rre150h0         Deutscher Wetterdienst                             9°37'/47°48'             763437/297358    440
+ZHWEI     Weiningen / Limmatthaler-Kreuz       rre150h0         Bundesamt für Strassen                             8°26'/47°25'             674843/251648    407
+DLWEG     Weissenburg                          rre150h0         Deutscher Wetterdienst                             10°56'/49°01'            -/-              439
+DLWEW     Weisweil                             rre150h0         Deutscher Wetterdienst                             7°42'/48°11'             619273/337595    173
+SGWID     Widnau                               rre150h0         Kanton St. Gallen                                  9°38'/47°24'             765199/252914    406
+DLWIE     Wielenbach                           rre150h0         Deutscher Wetterdienst                             11°09'/47°53'            878090/310175    550
+ZELUWI    Wiggen                               rre150h0         Kanton Luzern; zentras                             7°55'/46°53'             636014/193238    796
+TGWIG     Wigoltingen                          rre150h0         Kanton Thurgau                                     9°02'/47°36'             719427/273034    420
+ZELUWK    Wikon                                rre150h0         Kanton Luzern; zentras                             7°58'/47°16'             639947/234508    454
+BOSGWI    Wil                                  rre150h0         Bundesamt für Strassen                             9°02'/47°27'             720000/256000    520
+SGWIL     Wil                                  rre150h0         Kanton St. Gallen                                  9°03'/47°27'             722055/256733    535
+LUWIL     Willisau                             rre150h0         Kanton Luzern                                      8°00'/47°08'             642650/220780    541
+AGWDS     Windisch                             rre150h0         Kanton Aargau; Departement Bau, Verkehr und Umwelt; Abteilung Landschaft und Gewässer 8°14'/47°29'             659899/260036    332
+ZHWIN     Winterthur                           rre150h0         Kanton Zürich; Amt für Abfall, Wasser, Energie und Luft 8°44'/47°30'             697735/261315    455
+WIN       Winterthur / Seen                    rre150h0         MeteoSchweiz                                       8°46'/47°28'             699845/259054    506
+ZHWLF     Winterthur / Wülfingen               rre150h0         Bundesamt für Strassen                             8°41'/47°30'             694097/262253    432
+WIT       Wittnau                              rre150h0         MeteoSchweiz                                       7°58'/47°29'             639941/258983    463
+AGWOH     Wohlen                               rre150h0         Kanton Aargau; Departement Bau, Verkehr und Umwelt; Abteilung Landschaft und Gewässer 8°15'/47°22'             661500/246800    408
+DLWOL     Wolfach                              rre150h0         Deutscher Wetterdienst                             8°14'/48°18'             659410/349754    291
+LUWOL     Wolhusen                             rre150h0         Kanton Luzern                                      8°04'/47°04'             648090/212490    611
+ZHFRB     Wollerau / Fuchsberg                 rre150h0         Bundesamt für Strassen                             8°45'/47°12'             699286/228007    505
+DLWUN     Wunsiedel                            rre150h0         Deutscher Wetterdienst                             11°58'/50°02'            -/-              622
+DLWOF     Wutöschingen-Ofteringen              rre150h0         Deutscher Wetterdienst                             8°23'/47°41'             670681/281244    398
+WYN       Wynau                                rre150h0         MeteoSchweiz                                       7°47'/47°15'             626404/233848    421
+WAE       Wädenswil                            rre150h0         MeteoSchweiz                                       8°41'/47°13'             693847/230744    485
+ZHWAE     Wädenswil / Herrlisberg              rre150h0         Bundesamt für Strassen                             8°39'/47°13'             692336/230860    585
+BOFRWU    Wünnewil                             rre150h0         Bundesamt für Strassen                             7°16'/46°53'             587023/191578    640
+PSI       Würenlingen / PSI                    rre150h0         MeteoSchweiz                                       8°14'/47°32'             659355/265380    334
+DLWUR     Würzburg                             rre150h0         Deutscher Wetterdienst                             9°57'/49°46'             -/-              268
+ZHZEL     Zell / Rämismühle                    rre150h0         Kanton Zürich; Amt für Abfall, Wasser, Energie und Luft 8°49'/47°27'             703795/255605    524
+ZELUZI    Zinggen                              rre150h0         Kanton Luzern; zentras                             8°02'/46°58'             645418/202081    697
+ZEOWZT    Zmatt                                rre150h0         Bundesamt für Strassen                             8°18'/46°58'             665471/202208    438
+AGZOF     Zofingen                             rre150h0         Kanton Aargau; Departement Bau, Verkehr und Umwelt; Abteilung Landschaft und Gewässer 7°57'/47°17'             638608/237315    444
+ZGZUG     Zug                                  rre150h0         Gewässerschutzverband der Region Zugersee-Küssnachtersee-Ägerisee 8°30'/47°10'             681015/225340    418
+MMZWE     Zweisimmen                           rre150h0         DTN Schweiz AG                                     7°23'/46°33'             595686/155358    933
+DLZWI     Zwiesel                              rre150h0         Deutscher Wetterdienst                             13°14'/49°02'            -/-              615
+ZWK       Zwillikon                            rre150h0         MeteoSchweiz                                       8°26'/47°17'             675138/238165    461
+REH       Zürich / Affoltern                   rre150h0         MeteoSchweiz                                       8°31'/47°26'             681432/253548    443
+SMA       Zürich / Fluntern                    rre150h0         MeteoSchweiz                                       8°34'/47°23'             685116/248065    555
+NABZUE    Zürich / Kaserne                     rre150h0         Bundesamt für Umwelt                               8°32'/47°23'             682450/247990    408
+KLO       Zürich / Kloten                      rre150h0         MeteoSchweiz                                       8°32'/47°29'             682710/259338    426
+ZHZSE     Zürich / Seebach                     rre150h0         Bundesamt für Strassen                             8°32'/47°26'             682538/254250    465
+ZHZOE     Zürich Schwamendingen / HKW Aubrugg  rre150h0         Bundesamt für Strassen                             8°34'/47°25'             685699/251856    436
+ZHZHB     Zürich Wollishofen / Höcklerbrücke   rre150h0         Bundesamt für Strassen                             8°31'/47°21'             681711/244541    430
+ZHZBR     Zürich Wollishofen / Sihlhochstrasse rre150h0         Bundesamt für Strassen                             8°31'/47°21'             682058/245256    429
+DLOHR     Öhringen                             rre150h0         Deutscher Wetterdienst                             9°31'/49°12'             -/-              275
+
+Paramètre
+---------
+          Unité                                Description
+rre150h0  mm                                   précipitations, somme horaire
+

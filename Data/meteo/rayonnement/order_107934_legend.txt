@@ -1,0 +1,274 @@
+Office fédéral de météorologie et de climatologie, MétéoSuisse
+Operation Center 1
+Postfach 257
+8058 Zürich-Flughafen
+
+stn yyyyMMddHHmm
+
+stn Abréviation de la station
+y   Année
+M   Mois
+d   Jour
+H   Heure
+m   Minute   
+     
+Heures en UTC:           00:40 UTC = 02:40 heure d'été
+                                   = 01:40 heure d'hiver
+
+Référence du temps pour les valeurs horaires, si rien d'autre ne figure dans la description du paramètre: HH  = (HH-1):01 - HH:00
+Exemple: 13 = se réfère à la période de mesure de 12:01 à 13:00
+
+Les valeurs manquantes sont caractérisées par un '-'.
+
+Informations sur la qualité: la légende relative aux informations sur la qualité se trouve sous: https://gate.meteoswiss.ch/idaweb/text/datenqualitaet_legende_fr.pdf
+
+
+ 
+
+
+
+Stations
+--------
+stn       Nom                                  Parameter        Source de données                                  Longitude/Latitude       Coordonnées [km] Altitude [m]
+TAE       Aadorf / Tänikon                     gre000h0         MeteoSchweiz                                       8°54'/47°29'             710517/259824    539
+AGAAR     Aarau                                gre000h0         Kanton Aargau; Departement Bau, Verkehr und Umwelt; Abteilung für Umwelt 8°03'/47°23'             646140/248741    398
+COM       Acquarossa / Comprovasco             gre000h0         MeteoSchweiz                                       8°56'/46°28'             714984/146451    575
+AIG       Aigle                                gre000h0         MeteoSchweiz                                       6°55'/46°20'             560404/130713    381
+TGALL     Allenwinden                          gre000h0         Kanton Thurgau                                     8°57'/47°23'             714225/249135    945
+ALT       Altdorf                              gre000h0         MeteoSchweiz                                       8°37'/46°53'             690180/193564    437
+ARH       Altenrhein                           gre000h0         MeteoSchweiz                                       9°34'/47°29'             760386/261381    397
+TGAMR     Amriswil                             gre000h0         Kanton Thurgau                                     9°19'/47°32'             741040/266790    485
+AND       Andeer                               gre000h0         MeteoSchweiz                                       9°26'/46°37'             752691/164038    987
+TGARE     Arenenberg                           gre000h0         Kanton Thurgau                                     9°04'/47°40'             721758/281302    470
+IYAUE     Auer                                 gre000h0         Autonome Provinz Bozen - Südtirol                  11°18'/46°21'            897521/140169    254
+DLAUG     Augsburg                             gre000h0         Deutscher Wetterdienst                             10°57'/48°26'            859288/369729    461
+RAG       Bad Ragaz                            gre000h0         MeteoSchweiz                                       9°30'/47°01'             756910/209350    496
+AGBAD     Baden                                gre000h0         Kanton Aargau; Departement Bau, Verkehr und Umwelt; Abteilung für Umwelt 8°19'/47°28'             666075/257972    377
+DLBAM     Bamberg                              gre000h0         Deutscher Wetterdienst                             10°55'/49°52'            -/-              240
+BAN       Bantiger                             gre000h0         MeteoSchweiz                                       7°32'/46°59'             606850/202975    941
+IYBAR     Barbian / Kollmann                   gre000h0         Autonome Provinz Bozen - Südtirol                  11°32'/46°36'            913312/168597    464
+BAS       Basel / Binningen                    gre000h0         MeteoSchweiz                                       7°35'/47°32'             610908/265611    316
+NABBER    Bern / Bollwerk                      gre000h0         Bundesamt für Umwelt                               7°26'/46°57'             600137/199985    535
+BER       Bern / Zollikofen                    gre000h0         MeteoSchweiz                                       7°28'/46°59'             601933/204409    552
+NABBRM    Beromünster                          gre000h0         Bundesamt für Umwelt                               8°11'/47°11'             655842/226777    797
+DLBER     Berus                                gre000h0         Deutscher Wetterdienst                             6°41'/49°16'             -/-              363
+BEZ       Beznau                               gre000h0         MeteoSchweiz                                       8°14'/47°33'             659812/267696    325
+BIA       Biasca                               gre000h0         MeteoSchweiz                                       8°59'/46°20'             718535/132792    278
+TIBIO     Bioggio                              gre000h0         Repubblica e Cantone Ticino; Dipartimento del territorio; Divisione ambiente; Sezione protezione aria, acqua e suolo; Ufficio del monitoraggio ambientale 8°55'/46°01'             714170/96525     285
+BIZ       Bischofszell / Sitterdorf            gre000h0         MeteoSchweiz                                       9°16'/47°31'             737713/263612    507
+BIE       Bière                                gre000h0         MeteoSchweiz                                       6°21'/46°31'             515887/153210    683
+BOL       Boltigen                             gre000h0         MeteoSchweiz                                       7°23'/46°37'             595831/163587    820
+MMBOY     Boudry                               gre000h0         DTN Schweiz AG                                     6°49'/46°57'             553199/200608    510
+IYBOZ     Bozen                                gre000h0         Autonome Provinz Bozen - Südtirol                  11°19'/46°30'            897293/156942    246
+IYBRZ     Branzoll                             gre000h0         Autonome Provinz Bozen - Südtirol                  11°19'/46°24'            897663/146809    227
+TGBOH     Braunau / Oberhof                    gre000h0         Kanton Thurgau                                     9°05'/47°31'             723396/264338    630
+DLBRE     Bremen                               gre000h0         Deutscher Wetterdienst                             8°48'/53°03'             691777/879837    4
+VSBRB     Brig / Brigerbad                     gre000h0         Kanton Wallis; Dienststelle für Umweltschutz       7°55'/46°18'             636790/127555    652
+IYBRI     Brixen / Vahrn                       gre000h0         Autonome Provinz Bozen - Südtirol                  11°39'/46°44'            921313/184094    560
+IYBRU     Bruneck                              gre000h0         Autonome Provinz Bozen - Südtirol                  11°56'/46°48'            942770/193503    829
+BUS       Buchs / Aarau                        gre000h0         MeteoSchweiz                                       8°05'/47°23'             648395/248369    386
+TICAM     Camignolo                            gre000h0         Repubblica e Cantone Ticino; Dipartimento del territorio; Divisione ambiente; Sezione protezione aria, acqua e suolo; Ufficio del monitoraggio ambientale 8°56'/46°06'             715430/106905    435
+GRCAS     Castaneda                            gre000h0         Kanton Graubünden                                  9°09'/46°15'             731320/124230    770
+CEV       Cevio                                gre000h0         MeteoSchweiz                                       8°36'/46°19'             689688/130565    417
+CHZ       Cham                                 gre000h0         MeteoSchweiz                                       8°28'/47°11'             677758/226878    442
+DLCHI     Chieming                             gre000h0         Deutscher Wetterdienst                             12°32'/47°53'            -/-              551
+CHU       Chur                                 gre000h0         MeteoSchweiz                                       9°32'/46°52'             759465/193152    556
+GRCHI     Chur / A13                           gre000h0         Kanton Graubünden                                  9°30'/46°51'             757725/191375    562
+GRCHB     Chur / Bahnhof RhB                   gre000h0         Kanton Graubünden                                  9°32'/46°51'             759645/191105    595
+CRM       Cressier                             gre000h0         MeteoSchweiz                                       7°04'/47°03'             571162/210797    430
+DEM       Delémont                             gre000h0         MeteoSchweiz                                       7°21'/47°21'             593269/244543    439
+DLDEU     Deuselbach                           gre000h0         Deutscher Wetterdienst                             7°03'/49°46'             -/-              480
+TGDIE     Diessenhofen                         gre000h0         Kanton Thurgau                                     8°45'/47°41'             698975/281905    421
+DLDRE     Dresden / Klotzsche                  gre000h0         Deutscher Wetterdienst                             13°45'/51°08'            1042873/682770   227
+TGDUS     Dussnang                             gre000h0         Kanton Thurgau                                     8°58'/47°26'             714972/254165    590
+MMDAS     Därstetten                           gre000h0         DTN Schweiz AG                                     7°30'/46°39'             604225/167400    755
+NABDUE    Dübendorf                            gre000h0         Bundesamt für Umwelt                               8°37'/47°24'             688690/250880    432
+DLDUE     Düsseldorf                           gre000h0         Deutscher Wetterdienst                             6°46'/51°18'             553130/683869    37
+INNEBI    Ebikon                               gre000h0         inNET Monitoring AG                                8°18'/47°04'             665478/213381    484
+EBK       Ebnat-Kappel                         gre000h0         MeteoSchweiz                                       9°07'/47°16'             726347/237176    623
+VSEGG     Eggerberg                            gre000h0         Kanton Wallis; Dienststelle für Umweltschutz       7°53'/46°18'             634047/128450    844
+TGEGN     Egnach                               gre000h0         Kanton Thurgau                                     9°23'/47°32'             746450/266570    415
+EGO       Egolzwil                             gre000h0         MeteoSchweiz                                       8°00'/47°11'             642912/225540    521
+EIN       Einsiedeln                           gre000h0         MeteoSchweiz                                       8°45'/47°08'             699982/221068    910
+ELM       Elm                                  gre000h0         MeteoSchweiz                                       9°11'/46°55'             732265/198424    957
+DLERF     Erfurt / Bindersleben                gre000h0         Deutscher Wetterdienst                             10°58'/50°59'            847911/654307    316
+TGERM     Ermatingen                           gre000h0         Kanton Thurgau                                     9°05'/47°40'             723562/280980    415
+INNESF    Erstfeld                             gre000h0         inNET Monitoring AG                                8°38'/46°50'             691390/188470    460
+EVI       Evionnaz                             gre000h0         MeteoSchweiz                                       7°02'/46°11'             568197/114693    482
+FAH       Fahy                                 gre000h0         MeteoSchweiz                                       6°56'/47°25'             562464/252675    596
+DLFRA     Frankfurt / Main Flughafen           gre000h0         Deutscher Wetterdienst                             8°31'/50°02'             677700/542622    100
+MMFRS     Frasco                               gre000h0         DTN Schweiz AG                                     8°48'/46°20'             705000/133077    901
+TGFRA     Frauenfeld                           gre000h0         Kanton Thurgau                                     8°54'/47°34'             709512/270190    391
+DLFRB     Freiburg                             gre000h0         Deutscher Wetterdienst                             7°50'/48°01'             629531/319289    236
+DLFRS     Freudenstadt                         gre000h0         Deutscher Wetterdienst                             8°25'/48°27'             671807/367535    797
+GRA       Fribourg / Grangeneuve               gre000h0         MeteoSchweiz                                       7°07'/46°46'             575183/180076    650
+FRU       Frutigen                             gre000h0         MeteoSchweiz                                       7°39'/46°36'             616773/160884    756
+DLFUR     Fürstenzell                          gre000h0         Deutscher Wetterdienst                             13°21'/48°33'            -/-              476
+IYGAR     Gargazon                             gre000h0         Autonome Provinz Bozen - Südtirol                  11°12'/46°35'            888284/165295    254
+DLGAR     Garmisch-Partenkirchen               gre000h0         Deutscher Wetterdienst                             11°04'/47°29'            873023/265449    719
+GVE       Genève / Cointrin                    gre000h0         MeteoSchweiz                                       6°08'/46°15'             498904/122631    410
+GIH       Giswil                               gre000h0         MeteoSchweiz                                       8°11'/46°51'             657323/188976    471
+GLA       Glarus                               gre000h0         MeteoSchweiz                                       9°04'/47°02'             723755/210567    516
+KAGOD     Goldau / Tierpark                    gre000h0         Kachelmannwetter GmbH                              8°33'/47°03'             685022/211614    545
+GRE       Grenchen                             gre000h0         MeteoSchweiz                                       7°25'/47°11'             598218/225349    427
+GRO       Grono                                gre000h0         MeteoSchweiz                                       9°10'/46°15'             733016/124090    323
+GRGRO     Grono                                gre000h0         Kanton Graubünden                                  9°09'/46°15'             731839/123215    333
+GOE       Gösgen                               gre000h0         MeteoSchweiz                                       7°58'/47°22'             640421/245949    380
+GUT       Güttingen                            gre000h0         MeteoSchweiz                                       9°17'/47°36'             738421/273962    440
+HLL       Hallau                               gre000h0         MeteoSchweiz                                       8°28'/47°42'             677456/283471    419
+DLHAM     Hamburg / Fuhlsbüttel                gre000h0         Deutscher Wetterdienst                             9°59'/53°38'             769902/947723    11
+DLHAN     Hannover                             gre000h0         Deutscher Wetterdienst                             9°41'/52°28'             752948/816341    55
+MMHIW     Hinwil                               gre000h0         DTN Schweiz AG                                     8°50'/47°18'             705592/240470    569
+DLHOH     Hohenpeissenberg                     gre000h0         Deutscher Wetterdienst                             11°01'/47°48'            867541/300581    977
+NABHAE    Härkingen                            gre000h0         Bundesamt für Umwelt                               7°49'/47°19'             628865/240180    430
+WSLHOB    Hölstein Bestand                     gre000h0         Eidg. Forschungsanstalt WSL                        7°47'/47°26'             625700/254400    530
+ILZ       Ilanz                                gre000h0         MeteoSchweiz                                       9°13'/46°47'             735685/181965    698
+TGILL     Illighausen                          gre000h0         Kanton Thurgau                                     9°13'/47°36'             733082/274158    565
+INT       Interlaken                           gre000h0         MeteoSchweiz                                       7°52'/46°40'             633023/169092    577
+IYJEN     Jenesien                             gre000h0         Autonome Provinz Bozen - Südtirol                  11°20'/46°32'            898577/160645    973
+WSLJUF    Jussy Freiland                       gre000h0         Eidg. Forschungsanstalt WSL                        6°18'/46°14'             511632/120631    500
+DLKAI     Kaisersbach / Cronhütte              gre000h0         Deutscher Wetterdienst                             9°41'/48°55'             -/-              488
+IYKAL     Kaltern / Oberplanitzing             gre000h0         Autonome Provinz Bozen - Südtirol                  11°15'/46°27'            892969/150564    492
+DLKEM     Kempten                              gre000h0         Deutscher Wetterdienst                             10°20'/47°43'            817254/289861    705
+MMKSB     Kirchberg / Schallenberg             gre000h0         DTN Schweiz AG                                     9°01'/47°25'             719455/252803    768
+DLKLE     Kleiner Feldberg, Taunus             gre000h0         Deutscher Wetterdienst                             8°27'/50°13'             -/-              825
+DLKLI     Klippeneck                           gre000h0         Deutscher Wetterdienst                             8°45'/48°06'             698043/329166    973
+DLKON     Konstanz                             gre000h0         Deutscher Wetterdienst                             9°11'/47°41'             731514/282221    443
+KOP       Koppigen                             gre000h0         MeteoSchweiz                                       7°36'/47°07'             612662/218664    485
+TGKRE     Kreuzlingen                          gre000h0         Kanton Thurgau                                     9°11'/47°39'             731538/278849    400
+DLKOE     Köln / Bonn                          gre000h0         Deutscher Wetterdienst                             7°09'/50°52'             580162/635586    92
+IYLAA     Laas / Eyrs                          gre000h0         Autonome Provinz Bozen - Südtirol                  10°39'/46°37'            845853/168770    874
+DLLAH     Lahr                                 gre000h0         Deutscher Wetterdienst                             7°50'/48°22'             628863/357259    155
+IYLAI     Laimburg                             gre000h0         Autonome Provinz Bozen - Südtirol                  11°17'/46°23'            896074/144060    224
+MMLBB     Langenthal / Bleienbach              gre000h0         DTN Schweiz AG                                     7°45'/47°11'             622981/225759    480
+LAG       Langnau i.E.                         gre000h0         MeteoSchweiz                                       7°48'/46°56'             628003/198793    743
+TGLAN     Lanzenneunforn                       gre000h0         Kanton Thurgau                                     8°56'/47°37'             712467/275918    575
+MMLAF     Laufen / Dittingen                   gre000h0         DTN Schweiz AG                                     7°29'/47°26'             603951/254168    536
+NABLAU    Lausanne                             gre000h0         Bundesamt für Umwelt                               6°38'/46°31'             538690/152624    538
+WSLLAF    Lausanne Freiland                    gre000h0         Eidg. Forschungsanstalt WSL                        6°39'/46°34'             539386/156701    794
+KALTB     Lauterbrunnen                        gre000h0         Kachelmannwetter GmbH                              7°55'/46°35'             636368/159991    797
+DLLAU     Lautertal, Oberlauter                gre000h0         Deutscher Wetterdienst                             10°58'/50°18'            -/-              344
+MMNOI     Le Noirmont                          gre000h0         DTN Schweiz AG                                     6°57'/47°14'             563465/230613    974
+LEI       Leibstadt                            gre000h0         MeteoSchweiz                                       8°11'/47°36'             656373/272121    341
+DLLEI     Leipzig / Schkeuditz                 gre000h0         Deutscher Wetterdienst                             12°14'/51°26'            934738/709406    131
+MMLIN     Linthal                              gre000h0         DTN Schweiz AG                                     9°00'/46°55'             719045/198018    663
+OTL       Locarno / Monti                      gre000h0         MeteoSchweiz                                       8°47'/46°10'             704166/114316    366
+TGLOM     Lommis                               gre000h0         Kanton Thurgau                                     8°60'/47°31'             717573/264875    469
+MMLOP     Lopagno                              gre000h0         DTN Schweiz AG                                     8°59'/46°04'             719000/103152    626
+LUG       Lugano                               gre000h0         MeteoSchweiz                                       8°58'/46°00'             717873/95884     273
+MMBIR     Lupfig / Flugplatz Birrfeld          gre000h0         DTN Schweiz AG                                     8°14'/47°27'             659672/255089    393
+LUZ       Luzern                               gre000h0         MeteoSchweiz                                       8°18'/47°02'             665543/209849    454
+LAE       Lägern                               gre000h0         MeteoSchweiz                                       8°24'/47°29'             672250/259460    844
+WSLLAE    Lägern Turm                          gre000h0         Eidg. Forschungsanstalt WSL                        8°22'/47°29'             669777/259027    689
+MAG       Magadino / Cadenazzo                 gre000h0         MeteoSchweiz                                       8°56'/46°10'             715479/113161    203
+DLMAN     Mannheim                             gre000h0         Deutscher Wetterdienst                             8°33'/49°31'             -/-              96
+MMMAT     Marthalen                            gre000h0         DTN Schweiz AG                                     8°39'/47°37'             691307/275566    411
+VSMAS     Massongex                            gre000h0         Kanton Wallis; Dienststelle für Umweltschutz       6°59'/46°15'             564941/121275    398
+MAH       Mathod                               gre000h0         MeteoSchweiz                                       6°34'/46°44'             533458/176567    435
+MER       Meiringen                            gre000h0         MeteoSchweiz                                       8°10'/46°44'             655844/175930    588
+MMMEL     Mels / Heiligkreuz                   gre000h0         DTN Schweiz AG                                     9°25'/47°04'             749713/214107    482
+IYMER     Meran                                gre000h0         Autonome Provinz Bozen - Südtirol                  11°08'/46°41'            882785/177420    329
+MMMES     Mesocco                              gre000h0         DTN Schweiz AG                                     9°14'/46°24'             737894/139979    840
+DLMES     Messstetten                          gre000h0         Deutscher Wetterdienst                             8°57'/48°10'             711942/336543    899
+DLMIC     Michelstadt / Vielbrunn              gre000h0         Deutscher Wetterdienst                             9°06'/49°43'             -/-              453
+TIMOL     Moleno                               gre000h0         Repubblica e Cantone Ticino; Dipartimento del territorio; Divisione ambiente; Sezione protezione aria, acqua e suolo; Ufficio del monitoraggio ambientale 8°60'/46°17'             719940/126560    255
+MOA       Mosen                                gre000h0         MeteoSchweiz                                       8°14'/47°15'             660128/232852    453
+MMMOU     Moutier                              gre000h0         DTN Schweiz AG                                     7°22'/47°16'             594521/235986    537
+MOE       Möhlin                               gre000h0         MeteoSchweiz                                       7°53'/47°34'             633053/269147    343
+DLMUD     Mühldorf                             gre000h0         Deutscher Wetterdienst                             12°30'/48°17'            975681/359796    406
+MUB       Mühleberg                            gre000h0         MeteoSchweiz                                       7°17'/46°58'             587792/202479    479
+MMMUM     Mümliswil                            gre000h0         DTN Schweiz AG                                     7°42'/47°21'             619694/243474    560
+DLMUO     Münster / Osnabrück                  gre000h0         Deutscher Wetterdienst                             7°42'/52°08'             617766/777303    48
+IYNAT     Naturns                              gre000h0         Autonome Provinz Bozen - Südtirol                  10°59'/46°39'            871877/172430    537
+NEU       Neuchâtel                            gre000h0         MeteoSchweiz                                       6°57'/47°00'             563086/205559    485
+WSLNEF    Neunkirch Freiland                   gre000h0         Eidg. Forschungsanstalt WSL                        8°32'/47°41'             681661/282699    463
+DLWEB     Neustadt / Weinbiet                  gre000h0         Deutscher Wetterdienst                             8°07'/49°23'             -/-              553
+TGNOL     Nollen                               gre000h0         Kanton Thurgau                                     9°07'/47°30'             726838/261520    733
+TGNUS     Nussbaumen                           gre000h0         Kanton Thurgau                                     8°50'/47°37'             704218/275708    480
+CGI       Nyon / Changins                      gre000h0         MeteoSchweiz                                       6°14'/46°24'             506878/139572    458
+DLNUR     Nürburg / Barweiler                  gre000h0         Deutscher Wetterdienst                             6°52'/50°22'             -/-              485
+DLNUE     Nürnberg                             gre000h0         Deutscher Wetterdienst                             11°03'/49°30'            862116/489905    314
+DLOBD     Oberstdorf                           gre000h0         Deutscher Wetterdienst                             10°17'/47°24'            814149/253623    806
+MMOBE     Oberthal                             gre000h0         DTN Schweiz AG                                     7°40'/46°55'             617980/196061    853
+IYOBV     Obervintl                            gre000h0         Autonome Provinz Bozen - Südtirol                  11°45'/46°49'            929155/193494    747
+ORO       Oron                                 gre000h0         MeteoSchweiz                                       6°51'/46°34'             555505/158052    828
+WSLOTF    Othmarsingen Freiland                gre000h0         Eidg. Forschungsanstalt WSL                        8°13'/47°24'             659217/250228    461
+TGOTT     Ottenberg                            gre000h0         Kanton Thurgau                                     9°08'/47°35'             727270/271500    665
+PAY       Payerne                              gre000h0         MeteoSchweiz Test                                  6°57'/46°49'             562131/184611    490
+PIO       Piotta                               gre000h0         MeteoSchweiz                                       8°41'/46°31'             695880/152264    990
+PUY       Pully                                gre000h0         MeteoSchweiz                                       6°40'/46°31'             540819/151510    455
+MMRAF     Rafz                                 gre000h0         DTN Schweiz AG                                     8°33'/47°36'             684040/272684    432
+DLREG     Regensburg                           gre000h0         Deutscher Wetterdienst                             12°06'/49°03'            -/-              365
+INNRED    Reiden                               gre000h0         inNET Monitoring AG                                7°58'/47°14'             639560/232110    462
+MMRIC     Ricken                               gre000h0         DTN Schweiz AG                                     9°03'/47°16'             721669/236300    797
+TGRIC     Rickenbach                           gre000h0         Kanton Thurgau                                     9°03'/47°27'             722080/256250    545
+MMRIG     Riggisberg                           gre000h0         DTN Schweiz AG                                     7°29'/46°49'             603271/184705    803
+IYRIS     Ritten / Siffian                     gre000h0         Autonome Provinz Bozen - Südtirol                  11°28'/46°32'            -/-              987
+MMROM     Romont                               gre000h0         DTN Schweiz AG                                     6°55'/46°42'             560223/171568    778
+RUE       Rünenberg                            gre000h0         MeteoSchweiz                                       7°53'/47°26'             633252/253845    611
+DLSAA     Saarbrücken / Ensheim                gre000h0         Deutscher Wetterdienst                             7°06'/49°13'             575872/451603    320
+MMSAS     Saas, Prättigau                      gre000h0         DTN Schweiz AG                                     9°48'/46°55'             780393/198400    1000
+HAI       Salen-Reutenen                       gre000h0         MeteoSchweiz                                       9°01'/47°39'             719099/279047    718
+IYSAU     Salurn                               gre000h0         Autonome Provinz Bozen - Südtirol                  11°11'/46°14'            888921/127431    214
+GRVIT     San Vittore                          gre000h0         Kanton Graubünden                                  9°06'/46°14'             728549/122183    280
+IYSAN     Sand in Taufers / Mühlen             gre000h0         Autonome Provinz Bozen - Südtirol                  11°57'/46°54'            943368/204227    851
+IYSAR     Sarnthein                            gre000h0         Autonome Provinz Bozen - Südtirol                  11°21'/46°38'            899743/172969    971
+MMSAX     Sax                                  gre000h0         DTN Schweiz AG                                     9°28'/47°14'             752932/233330    475
+VSSAX     Saxon                                gre000h0         Kanton Wallis; Dienststelle für Umweltschutz       7°09'/46°08'             577566/109764    460
+SHA       Schaffhausen                         gre000h0         MeteoSchweiz                                       8°37'/47°41'             688702/282803    438
+IYSCH     Schlanders                           gre000h0         Autonome Provinz Bozen - Südtirol                  10°47'/46°37'            855860/169066    698
+AGSUA     Schupfart                            gre000h0         Kanton Aargau; Departement Bau, Verkehr und Umwelt; Abteilung für Umwelt 7°58'/47°31'             639302/263434    482
+MMSSE     Schwyz / Seewen                      gre000h0         DTN Schweiz AG                                     8°37'/47°02'             690119/209677    452
+WSLSCF    Schänis Freiland                     gre000h0         Eidg. Forschungsanstalt WSL                        9°04'/47°09'             722925/223520    626
+SPF       Schüpfheim                           gre000h0         MeteoSchweiz                                       8°01'/46°57'             643683/199710    744
+SIO       Sion                                 gre000h0         MeteoSchweiz                                       7°20'/46°13'             591633/118583    482
+STC       St. Chrischona                       gre000h0         MeteoSchweiz                                       7°41'/47°34'             618695/269036    493
+STG       St. Gallen                           gre000h0         MeteoSchweiz                                       9°24'/47°26'             747865/254588    775
+SGBLU     St. Gallen / Blumenbergplatz         gre000h0         Ostluft                                            9°22'/47°26'             746011/254720    675
+SGSTU     St. Gallen / Stuelegg                gre000h0         Ostluft                                            9°24'/47°24'             747605/252495    915
+IYSMP     St. Martin in Passeier               gre000h0         Autonome Provinz Bozen - Südtirol                  11°14'/46°47'            889384/188242    588
+SBO       Stabio                               gre000h0         MeteoSchweiz                                       8°56'/45°51'             716048/77973     351
+MMSTA     Stans                                gre000h0         DTN Schweiz AG                                     8°21'/46°58'             669026/202416    438
+IYSTZ     Sterzing                             gre000h0         Autonome Provinz Bozen - Südtirol                  11°26'/46°53'            904743/200425    939
+DLSTR     Straubing                            gre000h0         Deutscher Wetterdienst                             12°34'/48°50'            -/-              350
+DLSTS     Stuttgart / Schnarrenberg            gre000h0         Deutscher Wetterdienst                             9°12'/48°50'             -/-              314
+DLSTO     Stötten                              gre000h0         Deutscher Wetterdienst                             9°52'/48°40'             778758/393436    734
+THU       Thun                                 gre000h0         MeteoSchweiz                                       7°35'/46°45'             611200/177640    570
+MMPRV     Thusis                               gre000h0         DTN Schweiz AG                                     9°26'/46°43'             752982/175241    676
+MMTIT     Titterten                            gre000h0         DTN Schweiz AG                                     7°43'/47°24'             620855/250262    669
+MMTRG     Triengen                             gre000h0         DTN Schweiz AG                                     8°05'/47°14'             648430/230884    485
+DLTRI     Trier                                gre000h0         Deutscher Wetterdienst                             6°39'/49°45'             -/-              265
+UEB       Uetliberg                            gre000h0         MeteoSchweiz                                       8°29'/47°21'             679454/245034    854
+WSLUIB    Uitikon Bestand                      gre000h0         Eidg. Forschungsanstalt WSL                        8°27'/47°22'             676731/246286    543
+WSLUIF    Uitikon Freiland                     gre000h0         Eidg. Forschungsanstalt WSL                        8°27'/47°22'             676764/246211    545
+DLUMM     Ulm /Mähringen                       gre000h0         Deutscher Wetterdienst                             9°55'/48°27'             -/-              592
+MMUNS     Unterschächen                        gre000h0         DTN Schweiz AG                                     8°46'/46°52'             701431/191053    997
+TGUSH     Unterstammheim                       gre000h0         Kanton Thurgau                                     8°47'/47°38'             700523/277305    422
+VAD       Vaduz                                gre000h0         MeteoSchweiz                                       9°31'/47°08'             757722/221699    457
+VEV       Vevey / Corseaux                     gre000h0         MeteoSchweiz                                       6°49'/46°28'             552106/146847    405
+VIS       Visp                                 gre000h0         MeteoSchweiz                                       7°51'/46°18'             631150/128024    639
+WSLVOF    Vordemwald Freiland                  gre000h0         Eidg. Forschungsanstalt WSL                        7°55'/47°16'             635732/235431    486
+IYVOL     Völs am Schlern                      gre000h0         Autonome Provinz Bozen - Südtirol                  11°30'/46°31'            912015/159435    835
+DLWAI     Waibstadt                            gre000h0         Deutscher Wetterdienst                             8°54'/49°18'             -/-              236
+DLWAL     Waldmünchen                          gre000h0         Deutscher Wetterdienst                             12°41'/49°23'            -/-              498
+DLWED     Weiden                               gre000h0         Deutscher Wetterdienst                             12°11'/49°40'            -/-              439
+DLWES     Weihenstephan / Dürnast              gre000h0         Deutscher Wetterdienst                             11°42'/48°24'            -/-              477
+TGWEI     Weinfelden                           gre000h0         Kanton Thurgau                                     9°05'/47°34'             723890/269553    423
+TGWIG     Wigoltingen                          gre000h0         Kanton Thurgau                                     9°02'/47°36'             719427/273034    420
+WYN       Wynau                                gre000h0         MeteoSchweiz                                       7°47'/47°15'             626404/233848    421
+WAE       Wädenswil                            gre000h0         MeteoSchweiz                                       8°41'/47°13'             693847/230744    485
+PSI       Würenlingen / PSI                    gre000h0         MeteoSchweiz                                       8°14'/47°32'             659355/265380    334
+DLWUR     Würzburg                             gre000h0         Deutscher Wetterdienst                             9°57'/49°46'             -/-              268
+MMZWE     Zweisimmen                           gre000h0         DTN Schweiz AG                                     7°23'/46°33'             595686/155358    933
+REH       Zürich / Affoltern                   gre000h0         MeteoSchweiz                                       8°31'/47°26'             681432/253548    443
+SMA       Zürich / Fluntern                    gre000h0         MeteoSchweiz                                       8°34'/47°23'             685116/248065    555
+NABZUE    Zürich / Kaserne                     gre000h0         Bundesamt für Umwelt                               8°32'/47°23'             682450/247990    408
+KLO       Zürich / Kloten                      gre000h0         MeteoSchweiz                                       8°32'/47°29'             682710/259338    426
+ZHSTA     Zürich / Stampfenbachstrasse         gre000h0         Ostluft                                            8°32'/47°23'             683159/249026    441
+DLOHR     Öhringen                             gre000h0         Deutscher Wetterdienst                             9°31'/49°12'             -/-              275
+
+Paramètre
+---------
+          Unité                                Description
+gre000h0  W/m²                                 rayonnement global; moyenne horaire
+
